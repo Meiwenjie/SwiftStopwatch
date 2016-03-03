@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.1.1 (swiftlang-700.1.101.15 clang-700.1.81)"
+options: "8a9485fb03ba3aceb596130001b115a9"
+build_time: [510065117, 387238000]
+inputs:
+  "/Users/admin/Desktop/Swift Demo/SwiftStopwatch/SwiftStopwatch/ViewController.swift": [510065117, 0]
+  "/Users/admin/Desktop/Swift Demo/SwiftStopwatch/SwiftStopwatch/AppDelegate.swift": [510061240, 0]
